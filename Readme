@@ -20,6 +20,7 @@ An online store had sales data but didn't know:
 - 01_data_cleaning.sql - Data cleaning
 - 02_sales_analysis.sql - Sales questions
 - 03_customer_analysis.sql - Customer questions
+📁 superstore.csv - Raw dataset (Download to view, don't open on GitHub)
 
 ## Tools
 SQL (MySQL) | Excel | Power BI
