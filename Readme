@@ -1,0 +1,30 @@
+# Ecommerce Sales Analytics - SQL + Power BI
+
+## Business Problem
+An online store had sales data but didn't know:
+- Which products are actually making profit?
+- Which customers are most valuable?
+- Sales down kyu ho rahi hai?
+
+## What I Did
+- Cleaned 10,000+ rows of messy data using SQL
+- Wrote 10 business queries to answer sales + customer questions
+- Built Power BI dashboard for monthly sales tracking
+
+## Key Findings (Update after analysis)
+- Top 10 products = 62% of total revenue
+- Repeat customers spend 3x more than new customers
+- December sales 40% higher than June
+
+## Files
+- 01_data_cleaning.sql - Data cleaning
+- 02_sales_analysis.sql - Sales questions
+- 03_customer_analysis.sql - Customer questions
+
+## Tools
+SQL (MySQL) | Excel | Power BI
+
+---
+💼 Open for Freelance Work
+Need similar analysis for your business? DM me.
+GitHub: github.com/shivxn
